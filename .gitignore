@@ -10,3 +10,34 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Test files
+
+accessingdataneo4j.db
+dependency-reduced-pom.xml
+out
+README.html
