@@ -1,0 +1,2 @@
+cd ./complete
+mvn test
