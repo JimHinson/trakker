@@ -7,3 +7,5 @@ Text summarizer tools:
    
 # architecture
 * https://www.findbestopensource.com/product/gate
+
+
